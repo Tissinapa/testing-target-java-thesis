@@ -1,4 +1,4 @@
-# Spring Boot Target Application — Thesis
+# Spring Boot Target Application Thesis
 
 Java Spring Boot REST API with 11 deliberately seeded bugs for thesis experiment.
 
